@@ -1,0 +1,2 @@
+# Gamer
+Gamer Discord Bot
